@@ -1,4 +1,4 @@
-#!/usr/bin/python
+w#!/usr/bin/python
 
 import random
 import requests
@@ -11,7 +11,7 @@ from rich.style import Style
 import pystyle
 from pystyle import Colors, Colorate
 
-from cpmewan1999 import CPMEwan1999
+from CPMbydiets import CPMbydiets
 
 __CHANNEL_USERNAME__ = "CPMbydiets"
 __GROUP_USERNAME__   = "CPMbydiets"
